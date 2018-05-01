@@ -27,37 +27,6 @@ GitHub Wiki : https://github.com/NimaQu/ss-panel-v3-mod_Uim/wiki/%E5%89%8D%E7%AB
 
 Wiki已经启用，欢迎为此面板维护wiki
 
-### 示例图片 Images
-
-Image:
--------------------
-![](https://github.com/galaxychuck/images/blob/master/1.jpg)
-
-> 登陆界面
--------------------
-
-![](https://github.com/galaxychuck/images/blob/master/2.jpg)
-
-> 首页
-
--------------------
-![](https://github.com/galaxychuck/images/blob/master/3.jpg)
-
-> 位置调整
-
--------------------
-![](https://github.com/galaxychuck/images/blob/master/4.jpg)
-
-> 非VIP查看等級1节点显示
-
--------------------
-![](https://github.com/galaxychuck/images/blob/master/5.jpg)
-
-> f2f支付宝支付
-
--------------------
-![](https://github.com/galaxychuck/images/blob/master/6.jpg)
-
 > 教程
 -------------------
 
