@@ -53,7 +53,7 @@ Image:
 -------------------
 ![](https://github.com/galaxychuck/images/blob/master/5.jpg)
 
-> f2f支付宝支付（[需要代开当面付点我](https://t.me/galaxyq)）
+> f2f支付宝支付
 
 -------------------
 ![](https://github.com/galaxychuck/images/blob/master/6.jpg)
@@ -101,30 +101,7 @@ Image:
 
 #### 关于捐赠
 
-您对我们的帮助将是支持我们做下去的动力，只需您在购买部分产品或向他人推荐产品时从我们的返利链接购买，这就是对我们很大的支持了。~~没有钱了，肯定要做啊，不做没有钱用啊，打工是不可能打工的，这辈子不可能打工的~~
+您对我们的帮助将是支持我们做下去的动力，只需您在购买部分产品或向他人推荐产品时从我们的返利链接购买，这就是对我们很大的支持了。
 
-##### dumplin
+##### AFF:50KVM is the best! (https://idc.ifdream.net/ZGP)
 
-- [码支付-微信收款功能开通](https://codepay.fateqq.com/i/39756)
-
-
-##### NimaQu
-
-- [rixCloud-高速云端数据传输服务](https://my.rixcloud.com/aff.php?aff=1354)
-
-
-
-- [Uovz-企业级云服务器](https://www.uovz.com/aff.php?aff=215)
-
-
-
-- [魔方云 - 低成本极速高效 专属您的私有云](https://www.cubecloud.net/aff.php?aff=796)
-
-
-
-- [DGCHost.NET - Singapore VPS | Cheap Asia VPS](https://www.dgchost.net/client/aff.php?aff=524)
-
-
-##### galaxychuck
-
-- [黛米付-支付接入](https://www.daimiyun.cn/register.php?aff=624)
